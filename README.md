@@ -10,6 +10,6 @@ Introduction to the techniques and methods of object-oriented programming such a
 - Create, select, and use appropriate basic algorithms and data structures in Java programs.
 - Understand and apply event-driven programming principles in graphical user interface (GUI) programs.
 
-<img width="589" alt="foodtruckwindow" src="https://github.com/tle9/CS1331-Food-Truck-/assets/148303927/1224bd6a-1f1e-4764-ba2a-1db31698b740">
+<img width="589" alt="foodtruckwindow" src="https://github.com/tle9/CS1331-Food-Truck/assets/148303927/a48e2c98-ea50-4016-aff6-3e3053dfb13e">
 
-<img width="539" alt="graphicswindow" src="https://github.com/tle9/CS1331-Food-Truck-/assets/148303927/a88a35f9-b570-46a3-b101-1dd89cd236cf">
+<img width="539" alt="graphicswindow" src="https://github.com/tle9/CS1331-Food-Truck/assets/148303927/2600977b-6bf6-4ba9-b4de-8122823327e5">
