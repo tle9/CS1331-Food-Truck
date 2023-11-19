@@ -1,0 +1,19 @@
+     *** CS1331 Food Truck ***
+
+
+Receipt
+_______________________________________
+Quantity:      Item:
+   1         Hamburger - $8
+   3         Hot Dog - $5
+   1         Pizza - $4
+   7         French Fries - ($3)
+
+
+_______________________________________
+Subtotal:            $48.00
+Tax (8%):            $3.84
+Total order:         $51.84
+
+
+            Thank You!
